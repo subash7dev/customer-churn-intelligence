@@ -1,0 +1,23 @@
+CREATE TABLE IF NOT EXISTS customers (
+    customerid VARCHAR(50) PRIMARY KEY,
+    gender VARCHAR(20),
+    seniorcitizen INTEGER,
+    partner INTEGER,
+    dependents INTEGER,
+    tenure INTEGER,
+    phoneservice VARCHAR(30),
+    multiplelines VARCHAR(50),
+    internetservice VARCHAR(50),
+    onlinesecurity VARCHAR(50),
+    onlinebackup VARCHAR(50),
+    deviceprotection VARCHAR(50),
+    techsupport VARCHAR(50),
+    streamingtv VARCHAR(50),
+    streamingmovies VARCHAR(50),
+    contract VARCHAR(50),
+    paperlessbilling INTEGER,
+    paymentmethod VARCHAR(100),
+    monthlycharges NUMERIC(10,2),
+    totalcharges NUMERIC(12,2),
+    churn INTEGER
+);

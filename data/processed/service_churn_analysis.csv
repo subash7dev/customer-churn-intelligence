@@ -1,0 +1,19 @@
+Service,Category,ChurnRate
+OnlineSecurity,No,41.76672384219554
+OnlineSecurity,No internet service,7.404980340760157
+OnlineSecurity,Yes,14.611193660227837
+OnlineBackup,No,39.92875647668394
+OnlineBackup,No internet service,7.404980340760157
+OnlineBackup,Yes,21.531494442157268
+DeviceProtection,No,39.127625201938606
+DeviceProtection,No internet service,7.404980340760157
+DeviceProtection,Yes,22.50206440957886
+TechSupport,No,41.63547365390153
+TechSupport,No internet service,7.404980340760157
+TechSupport,Yes,15.166340508806261
+StreamingTV,No,33.52313167259787
+StreamingTV,No internet service,7.404980340760157
+StreamingTV,Yes,30.070188400443293
+StreamingMovies,No,33.680430879712745
+StreamingMovies,No internet service,7.404980340760157
+StreamingMovies,Yes,29.941434846266475
